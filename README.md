@@ -1,10 +1,9 @@
-<h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá! Sou Walisson Matheus</h1>
+<h1 align="center"> 👋 Olá! Sou Dev Walisson Matheus 👨‍💻</h1>
 
 <div align="center">
   <a href="https://github.com/DevWalissonMatheus">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=DevWalissonMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=DevWalissonMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
