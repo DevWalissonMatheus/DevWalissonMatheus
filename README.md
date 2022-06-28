@@ -1,9 +1,10 @@
-<h1 align="center">Olá! Sou Walisson Matheus </h1>
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá! Sou Walisson Matheus</h1>
 
 <div align="center">
   <a href="https://github.com/DevWalissonMatheus">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevWalissonMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=DevWalissonMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -13,6 +14,6 @@
 ##
 
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/DevWalissonMatheus" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/walisson-matheus-384222233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
