@@ -1,9 +1,7 @@
-<h1 align="center"> 👋🏻 Olá! Tudo Bem? <br /> 👋🏻 Hello! Alright?  </h1>
+<h1 align="center"> 👋🏻 Olá! Tudo Bem? <br /> 👋🏻 Hello! Alright? </h1>
 
-<h2>  👨🏻‍💻 Me chamo Walisson Matheus <br />  🗓️ Tenho 20 anos <br /> 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas <br /> 💭 Ainda sem Experiência Profissional  
+<h2>  👨🏻‍💻 Me chamo Walisson Matheus <br />  🗓️ Tenho 20 anos <br /> 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas <br /> 💭 Ainda sem Experiência Profissional <br /> <br /> 👨🏻‍💻 My name is Walisson Matheus <br /> 🗓️ I'm 20 years old <br /> 👨🏻‍🎓 Systems Analysis and Development Student <br /> 💭 No Professional Experience
 </h2>
-<h3>  👨🏻‍💻 My name is Walisson Matheus <br /> 🗓️ I'm 20 years old <br /> 👨🏻‍🎓 Systems Analysis and Development Student <br /> 💭 No Professional Experience  
-</h3>
 
 ##
 
