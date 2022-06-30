@@ -1,13 +1,12 @@
 <h1 align="center"> 👋🏻 Olá! Tudo Bem? <br /> 👋🏻 Hello! Alright? </h1>
 
-<h2>  👨🏻‍💻 Me chamo Walisson Matheus <br />  🗓️ Tenho 20 anos <br /> 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas <br /> 💭 Ainda sem Experiência Profissional <br /> <br /> 👨🏻‍💻 My name is Walisson Matheus <br /> 🗓️ I'm 20 years old <br /> 👨🏻‍🎓 Systems Analysis and Development Student <br /> 💭 No Professional Experience
+<h2>  👨🏻‍💻 Me chamo Walisson Matheus <br />  🗓️ Tenho 20 anos <br /> 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas <br /> 💭 Sem Experiência Profissional <br /> <br /> 👨🏻‍💻 My name is Walisson Matheus <br /> 🗓️ I'm 20 years old <br /> 👨🏻‍🎓 Systems Analysis and Development Student <br /> 💭 No Professional Experience
 </h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevWalissonMatheus&label=Profile%20views&color=0e75b6&style=flat" alt="DevWalissonMatheus" /> </p>
 
 <div align="center">
   <a href="https://github.com/DevWalissonMatheus">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=DevWalissonMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=DevWalissonMatheus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
