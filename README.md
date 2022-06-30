@@ -2,8 +2,7 @@
 
 <h2>  👨🏻‍💻 Me chamo Walisson Matheus <br />  🗓️ Tenho 20 anos <br /> 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas <br /> 💭 Ainda sem Experiência Profissional <br /> <br /> 👨🏻‍💻 My name is Walisson Matheus <br /> 🗓️ I'm 20 years old <br /> 👨🏻‍🎓 Systems Analysis and Development Student <br /> 💭 No Professional Experience
 </h2>
-
-##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevWalissonMatheus&label=Profile%20views&color=0e75b6&style=flat" alt="DevWalissonMatheus" /> </p>
 
 <div align="center">
   <a href="https://github.com/DevWalissonMatheus">
