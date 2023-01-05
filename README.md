@@ -7,7 +7,7 @@
 
 <div align="center">
 
-| <a href="https://github.com/DevWalissonMatheus"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=DevWalissonMatheus&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Dev Walisson Matheus github stats" /></a> | <a href="https://github.com/DevWalissonMatheus"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&layout=compact&theme=radical&hide_border=true" /></a> 
+| <a href="https://github.com/DevWalissonMatheus"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=DevWalissonMatheus&show_icons=true&theme=radical&hide_border=true" alt="Dev Walisson Matheus github stats" /></a> | <a href="https://github.com/DevWalissonMatheus"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&layout=compact&theme=radical&hide_border=true" /></a> 
   | ------------- | ------------- |
 
 <div style="display: inline_block"><br>
