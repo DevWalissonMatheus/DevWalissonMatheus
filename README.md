@@ -7,18 +7,6 @@
 
 <div align="center">
 
-| <a href="https://github.com/DevWalissonMatheus"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=DevWalissonMatheus&include_all_commits=true&theme=radical&hide_border=true" alt="Walisson Matheus github stats" /></a> | <a href="https://github.com/DevWalissonMatheus"><img height="220" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="DWM-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="DWM-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="DWM-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <!--<img align="center" alt="DWM-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />-->
- </div>
-
-##
-
 <div> 
   
   [![Dev Walisson matheus github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevWalissonMatheus&bg_color=141321&color=FF428E&line=A8FDF6&point=F7D747&area=true&hide_border=true)](https://github.com/DevWalissonMatheus)
@@ -26,7 +14,16 @@
 </div>
 
 ##
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="DWM-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="DWM-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="DWM-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <!--<img align="center" alt="DWM-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />-->
+ </div>
 
+## 
+  
 <div> 
   <a href="https://t.me/DevWalissonMatheus" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/walisson-matheus-384222233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
