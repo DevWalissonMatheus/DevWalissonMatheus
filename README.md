@@ -5,7 +5,7 @@
 <h2>  👨🏻‍💻 Me chamo Walisson Matheus <br />  🗓️ Tenho 21 anos <br /> 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas <br /> 💭 Sem Experiência Profissional <br /> <br /> 👨🏻‍💻 My name is Walisson Matheus <br /> 🗓️ I'm 21 years old <br /> 👨🏻‍🎓 Systems Analysis and Development Student <br /> 💭 No Professional Experience
 </h2>
 <div align="center" style="display: inline_block">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&layout=compact&langs_count=7&theme=radical"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWalissonMatheus&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div align="center">
 
