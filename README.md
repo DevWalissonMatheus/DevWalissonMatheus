@@ -16,7 +16,7 @@
 ##
   
 <div style="display: inline_block"><br>
-  <h3> 📖 Eu estudei e sei o básico <br /> 📖 I've studied and I know the basics </h3>
+  <h3> 📖 Eu estudei e sei o básico <br /> 📖 I studied and I know the basics </h3>
   <img align="center" alt="DWM-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="DWM-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="DWM-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
