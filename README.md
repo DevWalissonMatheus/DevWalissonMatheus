@@ -30,7 +30,7 @@
   
 <div> 
   <a href="https://www.instagram.com/walissonmatheus.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> 
-  <!-- <a href="https://www.instagram.com/walissonmatheus.dev" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> /> -->
+  <a href="https://www.linkedin.com/in/devwalissonmatheus" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 [![snake gif](https://github.com/DevWalissonMatheus/DevWalissonMatheus/blob/output/github-contribution-grid-snake-dark.svg)](https://github.com/DevWalissonMatheus)
 </div>
